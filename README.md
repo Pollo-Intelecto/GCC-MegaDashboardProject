@@ -2,7 +2,7 @@
 
 > Reusable Power Query (M) function to pull data from any Airtable base, table, or view into Power BI via the Airtable REST API — no connector, no third-party tool, just a single parameterized function and a Personal Access Token.
 
-**Author:** [Ahmed Atef Mohran]
+**Author:** Ahmed Atef Mohran
 
 ---
 
